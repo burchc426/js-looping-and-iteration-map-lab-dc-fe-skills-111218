@@ -1,8 +1,5 @@
 // Code your solution in this flowerCaseDrivers.map(function)
-let drivers = [
-  
-  
-  ]
+let drivers = [ 'Manny', 'Joe', 'Sam', 'Daniel']
 function lowerCaseDrivers() {
   
   
